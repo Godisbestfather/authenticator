@@ -1,0 +1,7 @@
+{
+  "name": "FusionAuth",
+  "description": "A conceptual authenticator app that harmonizes the design principles of Apple's HIG and Google's Material Design, providing a seamless and secure experience for managing two-factor authentication (2FA) codes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
